@@ -44,8 +44,6 @@ Deployment-ready
 
 # 🖥️ User Interface
 
-![INTERFACE]()
-
 Users input:
 
 N, P, K values
@@ -59,6 +57,8 @@ Soil pH
 Rainfall
 
 The system instantly predicts the most suitable crop.
+
+![INTERFACE](https://github.com/suryavhi704/CROP-RECOMMENDATION-SYSTEM/blob/main/Screenshot%202026-02-14%20175455.png?raw=true)
 
 # 🔮 Future Scope
 
